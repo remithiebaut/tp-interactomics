@@ -60,7 +60,7 @@ ans = httpReq.text
 ##### Quelles techniques experimentales mesurent les interactions rapportées dans cette publication?
 
 ```
-
+Y2H
 ```
 
 ##### Proposer deux expressions régulières et les champs auxquels les appliquer pour
