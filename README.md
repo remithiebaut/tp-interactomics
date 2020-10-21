@@ -36,9 +36,9 @@ Par exemple, les 100 premières interactions protéine-protéine humaines dispon
 
 Numero de champ | Signification Biologique|
  --- | --- 
-1 | 
-2 |
-3 |
+1 | nom protéine A
+2 | nom protéine B
+3 | 
 4 |
 5 |
 6 |
